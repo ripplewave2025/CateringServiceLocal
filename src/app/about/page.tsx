@@ -29,7 +29,7 @@ export default function About() {
               <strong className="font-semibold">Unmatched Quality:</strong> From ingredient selection to final presentation, we uphold the highest standards of quality and hygiene.
             </li>
             <li>
-              <strong className="font-semibold">Personalized Service:</strong> We listen to your needs and preferences, crafting custom menus and service plans that perfectly match your event's vision and budget.
+              <strong className="font-semibold">Personalized Service:</strong> We listen to your needs and preferences, crafting custom menus and service plans that perfectly match your event&apos;s vision and budget.
             </li>
             <li>
               <strong className="font-semibold">Local Expertise:</strong> Our deep understanding of local tastes and event logistics in Darjeeling, Sikkim, and Siliguri ensures a smooth and authentic experience.
@@ -46,7 +46,7 @@ export default function About() {
         <section className="bg-white p-8 rounded-lg shadow-xl text-center">
           <h2 className="text-3xl font-bold mb-6 text-blue-700">Meet Our Team (Placeholder)</h2>
           <p className="text-gray-700 text-lg">
-            Behind every successful event is a passionate team. While we can't introduce them all here, rest assured that our chefs, event coordinators, and service staff are all dedicated professionals committed to making your catering experience exceptional.
+            Behind every successful event is a passionate team. While we can&apos;t introduce them all here, rest assured that our chefs, event coordinators, and service staff are all dedicated professionals committed to making your catering experience exceptional.
           </p>
           {/* You can add team photos and bios here later */}
         </section>

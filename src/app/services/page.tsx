@@ -112,7 +112,7 @@ export default function Services() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {testimonials.map((testimonial, index) => (
             <div key={index} className="bg-white p-6 rounded-lg shadow-md flex flex-col justify-between">
-              <p className="italic text-gray-700 mb-4">\"{testimonial.quote}\"</p>
+              <p className="italic text-gray-700 mb-4">&ldquo;{testimonial.quote}&rdquo;</p>
               <p className="font-semibold text-right text-gray-800">{testimonial.author}</p>
             </div>
           ))}
